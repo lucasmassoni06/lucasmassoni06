@@ -10,7 +10,8 @@
 <div>
   <a href="https://beacons.ai/lucasmassoni06">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmassoni06&layout=compact&langs_count=16&theme=dark"/>
-  </a><br>
+  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmassoni06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
   <img src="https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" height="40" alt="javascript logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" height="40" alt="html5 logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" height="40" alt="css3 logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;">
